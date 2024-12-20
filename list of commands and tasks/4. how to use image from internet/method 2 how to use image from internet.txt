@@ -1,0 +1,2 @@
+Image.network(
+    'https://docs.flutter.dev/assets/images/dash/dash-fainting.gif');
